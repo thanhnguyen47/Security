@@ -2,8 +2,8 @@
 
 ## Overview
 
-Point: 10\
-Tags: General Skills
+**Points:** 10\
+**Tags:** General Skills
  
 ## Description
 Python scripts are invoked kind of like programs in the Terminal... Can you run [this Python script](./ende.py) using [this password](./pw.txt) to get [the flag](./flag.txt.en)?
@@ -103,6 +103,7 @@ else:
 ```
 It's a Python code.
 > **You need to learn Python to understand what this Python code does.**
+
 To run this Python program, we use:
 ```bash
 $ python3 ende.py

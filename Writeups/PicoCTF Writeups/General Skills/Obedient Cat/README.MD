@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Point:** 5\
+**Points:** 5\
 **Tags:** General Skills
 
 ## Description

@@ -1,7 +1,7 @@
 # Wave a flag
 
 ## Overview
-Point: 10\
+Points: 10\
 Tags: General Skills
 ## Description
 Can you invoke help flags for a tool or binary? [This program](./warm) has extraordinarily helpful information...
@@ -63,7 +63,7 @@ drwxr-xr-x 2 user group 4096 May 25 10:45 dir1
 - `May 25 10:45` is the last modification date and time
 - `dir1` and `file1` are the names of the directory and the file, respectively
 
-### Understand the permission bits:\
+### Understand the permission bits:
 `drwxr-xr-x`\
 So, the first character is the file type:
 - `-` for a regular file
@@ -108,7 +108,7 @@ It means the permissions of the file now is `rwxr-xr--`, which means:
 
 *I took reference from [this web](https://linuxconfig.org/understanding-of-ls-command-with-a-long-listing-format-output-with-permission-bits)*
 
-## Extension
+## Alternative Approach 
 
 Back to the challenge CTF, as soon as we have the executable/binary file , we can try to extract all the readable strings from it by using `strings` command.
 
