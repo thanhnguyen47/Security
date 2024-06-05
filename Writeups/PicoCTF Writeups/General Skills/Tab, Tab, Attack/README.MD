@@ -45,7 +45,7 @@ LOL!
 
 ## Flag
 
-picoCTF{l3v3l_up!_t4k3_4_r35t!_6f332f10}
+`picoCTF{l3v3l_up!_t4k3_4_r35t!_6f332f10}`
 
 ## Extention
 

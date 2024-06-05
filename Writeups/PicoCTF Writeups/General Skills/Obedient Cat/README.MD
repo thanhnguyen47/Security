@@ -22,7 +22,7 @@ in the link and "cat" it
 
 ## Flag
 
-picoCTF{s4n1ty_v3r1f13d_1a94e0f9}
+`picoCTF{s4n1ty_v3r1f13d_1a94e0f9}`
 
 And now we have what we need: the flag. You knew what thing we do next? Do it.
 

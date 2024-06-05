@@ -41,7 +41,7 @@ And here it is.
 
 ## Flag
 
-picoCTF{g00d_k1tty!_n1c3_k1tty!_f2d7cafa}
+`picoCTF{g00d_k1tty!_n1c3_k1tty!_f2d7cafa}`
 
 ## Alternative Approach 
 

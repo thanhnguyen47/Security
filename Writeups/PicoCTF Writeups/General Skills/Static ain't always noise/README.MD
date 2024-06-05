@@ -90,7 +90,7 @@ Oke, I have many things here, try searching `picoCTF` (shorthand: Ctrl + F)
 here it is!
 ## Flag
 
-picoCTF{d15a5m_t34s3r_f5aeda17}
+`picoCTF{d15a5m_t34s3r_f5aeda17}`
 
 ## Alternative Approach
 

@@ -30,7 +30,7 @@ After that, you have:
 
 ## Flag
 
-picoCTF{s3cur3_c0nn3ct10n_3e293eea}
+`picoCTF{s3cur3_c0nn3ct10n_3e293eea}`
 
 ## What is SSH?
 SSh stands for "Secure Shell". It is a network protocol used for secure access to a remote computer. SSH provides a secure channel over an unsecured network by using encryption to protect the data transferred between the client and the server. It is commonly used for remote command-line login, remote command execution, and secure file transfer.
