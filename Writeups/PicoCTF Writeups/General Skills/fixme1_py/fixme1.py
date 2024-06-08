@@ -17,5 +17,5 @@ flag_enc = chr(0x15) + chr(0x07) + chr(0x08) + chr(0x06) + chr(0x27) + chr(0x21)
 
   
 flag = str_xor(flag_enc, 'enkidu')
-print('That is correct! Here\'s your flag: ' + flag)
+    print('That is correct! Here\'s your flag: ' + flag)
 

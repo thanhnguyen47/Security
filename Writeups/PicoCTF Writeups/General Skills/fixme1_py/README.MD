@@ -46,7 +46,9 @@ flag = str_xor(flag_enc, 'enkidu')
 
 ```
 
-As the hint 1 says, the indentation is very meaning ful in Python. The error is in line 20 when you print the flag out, just put it back to the beginning of the line, save it and try running this script.
+As the hint 1 says, the indentation is very meaning ful in Python. The error is in line 20 when you print the flag out.
+![alt text](image-1.png)
+Just put it back to the beginning of the line, save it and try running this script.
 ![alt text](image.png)
 
 ## Flag
