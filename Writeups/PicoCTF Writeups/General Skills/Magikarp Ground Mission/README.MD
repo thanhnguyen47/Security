@@ -17,8 +17,10 @@ Additional details will be available after launching your challenge instance.
 ## Approach
 
 Firstly, connect to the target machine via ssh following the challenge's instructions.\
-Then see some information of the target:\
+Then see some information of the target:
+
 ![alt text](image.png)
+
 Oke, let's see what's in `1of3.flag.txt`
 
 ![alt text](image-1.png)
