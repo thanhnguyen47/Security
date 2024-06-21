@@ -121,6 +121,7 @@ So we simply put this function in right place. The code in the snippet to proces
       print_flag()
 ```
 Oke, to save the change in `nano` editor, we press Ctrl + x and follow the on-screen prompts. And after we run it, we have the flag.
+
 ![alt text](image.png)
 
 ## Flag

@@ -94,9 +94,11 @@ for pw in pos_pw_list:
 ```
 
 I name it `pwcracker.py`, run it now:
+
 ![alt text](image.png)
 
 Oke, so my correct password is `2295`. Back to the challenge, run the script and type the password in:
+
 ![alt text](image-1.png)
 
 

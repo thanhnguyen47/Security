@@ -53,6 +53,7 @@ level_1_pw_check()
 The script is a simple password checker.\
 Basically, you need to run this script, and enter the password for flag.\
 We can easily see that the password is `8713`. 
+
 ![alt text](image.png)
 
 This is why we don't store passwords in plain text.

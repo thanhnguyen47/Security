@@ -29,6 +29,7 @@ There are many things inside a directory named `drop-in`. Now unzip it:
 $ unzip challenge.zip
 ```
 Oke, we got `drop-in`, exploring time:
+
 ![alt text](image.png)
 
 Ukm, this challenge teaches you about `git log` command. Have you used it before?

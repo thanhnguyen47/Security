@@ -23,6 +23,7 @@ Run the Python script and convert the given number from decimal to binary to get
 
 This challenge is a test your converting ability from decimal to binary format.\
 You just need to get the python script, run it and answer the question:
+
 ![alt text](image.png)
 
 So let's take a look at file `convertme.py`:

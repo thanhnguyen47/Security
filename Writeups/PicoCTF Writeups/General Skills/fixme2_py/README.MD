@@ -24,9 +24,11 @@ This challenge is pretty similar to challenge `fixme1.py` you did.
 There is an error in this python script. The hint 1 says: `Are equality and assignment the same symbol?`
 
 Did you see the error? It's in line 22.
+
 ![alt text](image.png)
 
 Fix it and run again.
+
 ![alt text](image-1.png)
 
 ![alt text](image-2.png)

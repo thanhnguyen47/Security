@@ -52,9 +52,11 @@ level_2_pw_check()
 It's so familiar. Did you do the challenge `PW Crack 1`? This challenge is the similar thing but the password is in hex format: `chr(0x34) + chr(0x65) + chr(0x63) + chr(0x39)`
 
 Try to figure it out:
+
 ![alt text](image.png)
 
 Easy! Just back the the challenge, run the cript and enter the password we found.
+
 ![alt text](image-1.png)
 
 ## Flag

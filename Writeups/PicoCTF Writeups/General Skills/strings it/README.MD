@@ -17,6 +17,7 @@ Can you find the flag in [file] without running it?
 
 Did you get the file already? Using `wget` command.\
 This is just a basic. So, let's quickly solve it:
+
 ![alt text](image.png)
 
 Do you remember the uses of `strings` command and `grep` command?

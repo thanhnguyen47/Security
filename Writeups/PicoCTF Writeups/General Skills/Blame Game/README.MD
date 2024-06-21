@@ -20,17 +20,28 @@ You can download the challenge files here:
 ## Approach
 
 Did you get the zip archive?
+
 ![alt text](image.png)
+
 `unzip` to extract it, we have a directory named `drop-in`, take a look at it:
+
 ![alt text](image-1.png)
+
 Stupid stuff!
+
 Because this challenge suggested about someone's commits, we should take a look at `git branch`
+
 ![alt text](image-2.png)
+
 Maybe `git log --oneline`
+
 ![alt text](image-3.png)
+
 ukm, i can get the details: `git log`, but i wanna show you this:
 Because there could be many changes accross the project you can use the command on one specified file. In this case, it's `git log message.py`
+
 ![alt text](image-4.png)
+
 Oke, we've done successfully!
 
 ## Flag

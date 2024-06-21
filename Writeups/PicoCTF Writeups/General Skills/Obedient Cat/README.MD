@@ -31,4 +31,5 @@ We can see what type of file the 'flag' is by using `file` command
 ```bash
 file flag
 ```
+
 ![extension](image-2.png)

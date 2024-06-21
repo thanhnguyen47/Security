@@ -26,6 +26,7 @@ $ ssh ctf-player@titan.picoctf.net -p 51793
 Accept the fingerprint with `yes` and you'll alse need the password from your challange.
 
 After that, you have:
+
 ![alt text](image.png)
 
 ## Flag
@@ -62,6 +63,7 @@ Check if it runs properly
 ```bash
 $ sudo systemctl status ssh
 ```
+
 ![alt text](image-1.png)
 
 It seems ok. Now we need to ensure the firewall allows SSH connections (on port 22)\

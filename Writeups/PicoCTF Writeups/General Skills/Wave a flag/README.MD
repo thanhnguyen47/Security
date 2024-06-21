@@ -1,8 +1,8 @@
 # Wave a flag
 
 ## Overview
-Points: 10\
-Tags: General Skills
+**Points:** 10\
+**Tags:** General Skills
 ## Description
 Can you invoke help flags for a tool or binary? [This program](./warm) has extraordinarily helpful information...
 ## Hints
@@ -17,12 +17,16 @@ First, we get the program from the link:\
 `$ wget [the link of the program]`
 
 Oke, now we have the program in the current directory, we should see what exactly type of the file is. 
+
 ![alt text](image.png)
 
 It's a executable file, blah blah. \
 Let's try to run it.
+
 ![alt text](image-1.png)
+
 oke, permission denied, check it:
+
 ![alt text](image-2.png)
 
 yeah, it does not have execute permission on any object (group, owner, others)
@@ -31,10 +35,15 @@ Try to add it by using `chmod` command.
 $ chmod +x warm
 ```
 oke, let's check again
+
 ![alt text](image-3.png)
+
 Now we have the execute permission on this file. Run it:
+
 ![alt text](image-4.png)
+
 Follow the instruction:
+
 ![alt text](image-5.png)
 
 Done!!

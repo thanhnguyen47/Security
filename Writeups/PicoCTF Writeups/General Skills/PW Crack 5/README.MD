@@ -67,8 +67,11 @@ solve()
 ```
 
 Oke, let's run this script to get the correct password:
+
 ![alt text](image-1.png)
+
 Alright, the password for the flag is `eee0`. Run `level5.py`, enter the password and complete the rest!
+
 ![alt text](image-2.png)
 
 ## Flag

@@ -31,15 +31,23 @@ Ops, there're many stuff inside a directory named `drop-in`, so just unzip it
 $ unzip challenge.zip
 ```
 And we've got `drop-in` already.
+
 ![alt text](image-1.png)
+
 Continue to explore:
+
 ![alt text](image-2.png)
+
 oh, there is a hidden file named `.git`. It means that there is a git repository here.\
 Let's check:
+
 ![alt text](image-3.png)
+
 I've checked out to commit `create flag` with hash code `b562f0b`
 See if something are there:
+
 ![alt text](image-4.png)
+
 Oke, we got the flag in `message.txt`
 
 ## Flag

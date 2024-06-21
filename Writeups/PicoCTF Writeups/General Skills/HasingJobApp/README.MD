@@ -29,9 +29,12 @@ Oke, the challenge ask us to hash a text by md5 hashcode. Do you know md5 hash?
 > MD5 (message digest algorithm 5) is a widely used cryptographic hash function that produces a 128-bit (16-byte) hash value, typically expressed as a 32-character hexadecimal number. Input can be any length of data and output always is a 128-bit hash value (32-character). It is often used to verify data integrity.
 
 > In Linux, there is a tool that is able to generate md5 hash named `md5sum`. Let's take a look:
-> - For a string:\
+> - For a string:
+>
 > ![alt text](image-1.png)
-> - For a file:\
+>
+> - For a file:
+>
 > ![alt text](image-2.png)
 
 > MD5 hashes are designed to be one-way functions, meaning that they cannot be reversed or "decoded" to retrieve the original input.

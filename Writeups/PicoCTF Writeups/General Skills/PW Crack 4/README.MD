@@ -97,9 +97,12 @@ solve()
 ```
 
 Oke, let's run it now
+
 ![alt text](image.png)
+
 Here you are. The correct password is `8b95`\
 Go ahead, run `level4.py` to get the flag!
+
 ![alt text](image-1.png)
 
 ## Flag

@@ -17,9 +17,11 @@ Unzip this archive and find the file named 'uber-secret.txt'\
 ## Approach
 
 Download the archive by `wget` and then see what's on this zip file:
+
 ![alt text](image.png)
 
 Oke, there are a lot of things in a directory named `files`. Now we will `unzip` it.
+
 ![alt text](image-1.png)
 
 We already have directory named `files`. How do we find the file named `uber-secret.txt`?
@@ -37,6 +39,7 @@ $ find ./files -name uber-secret.txt
 ```
 
 And the result is:
+
 ![alt text](image-2.png)
 
 Let's see if something's there:

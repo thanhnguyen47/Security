@@ -18,9 +18,13 @@ There is a nice program that you can talk to by using this command in a shell:\
 ## Approach
 
 Let's try to run the command in **Description**
+
 ![alt text](image.png)
+
 I can make it easier to look by using a pipe with `tr` command and flag `-d`
+
 ![alt text](image-1.png)
+
 wanna know more about `tr`, google it or you can use `man tr`.
 
 Oke, back to the challenge, we have an array of numbers. It looks like ASCII codes in decimal. I can try to write a simple program called "converter.py" helping to convert decimal string into ASCII in python.
@@ -35,6 +39,7 @@ for a in arr:
 ```
 
 Oke, let's run this code:
+
 ![alt text](image-2.png)
 
 And here it is.
@@ -52,6 +57,7 @@ To see more about ASCII, you can download `ascii` in Terminal or google it.
 $ sudo apt install ascii
 $ ascii
 ```
+
 ![alt text](image-3.png)
 
 ## Extension

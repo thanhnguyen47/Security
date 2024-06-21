@@ -36,7 +36,9 @@ Or you can choose many other different text editors like nano, vim, vscode, ...,
 For now, I'll use sublime text, it's the favourite text editor of my favourite youtuber (just fun). Google to know how to install sublime text.
 
 But before to open these file by **sublime text**, we should see what kinds of files they are.
+
 ![alt text](image-1.png)
+
 You know what? I think file 'flag.txt.en' is encrypted.
 
 Oke, now we open file 'ende.py' first.
@@ -109,7 +111,9 @@ To run this Python program, we use:
 $ python3 ende.py
 ```
 ![alt text](image-2.png)
+
 Oke, now follow the instructions, we will have the flag. Bellow is my solution:
+
 ![alt text](image-3.png)
 
 ## Flag

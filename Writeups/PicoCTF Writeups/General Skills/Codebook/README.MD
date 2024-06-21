@@ -19,6 +19,7 @@ Run the Python script `code.py` in the same directory as `codebook.txt`.
 ## Approach
 
 In this challenge, we just need to run the Python script `code.py` in the same directory as `codebook.txt`
+
 ![alt text](image.png)
 
 So easy right? But I'm currently curious that how it works. Let's take a look at the python script.
