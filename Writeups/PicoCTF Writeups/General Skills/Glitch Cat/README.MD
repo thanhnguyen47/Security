@@ -24,9 +24,11 @@ $ nc saturn.picoctf.net 56180
 ```
 
 After connecting to server, we receive the bellow:
+
 ![alt text](image.png)
 
 We all know that it's the ASCII code in hex. So i can use Python to print it out.
+
 ![alt text](image-1.png)
 
 It's so easy right?
