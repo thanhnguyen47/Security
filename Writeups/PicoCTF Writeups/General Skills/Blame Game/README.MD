@@ -43,19 +43,24 @@ Oke, we've done successfully!
 Because all information about git repository is stored in `.git` directory, we can look for the flag inside it. Let's try:
 
 ![alt text](image-5.png)
+
 We always have directory name `.git` on my local repository. Just go ahead:
+
 ![alt text](image-6.png)
 
 Now i'm inside the `logs` directory, all their commits were stored on `HEAD` file and the `refs` directory contains all the activities on remote repo. But everythings will be sorted in order of older first here.
 
 Oke, let check the file named `HEAD` here, i will use the command named `head` to show the first 10 lines of it.
+
 ![alt text](image-7.png)
 
 See the flag? 
 
 ### way 2
 Simply, you can combine `git log` with a filter tool in a pipe:
+
 ![alt text](image-8.png)
+
 Easy! 
 
 But the purpose of this challenge isn't this thing.
