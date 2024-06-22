@@ -45,13 +45,19 @@ So, the result of encoding "Man" is "TWFu"
 Oke, back to our challenge, there is a command-line utility in Linux helping you to encode and decode data using the Base64 encoding scheme.
 
 It's called `base64`, we can try it:
+
 ![alt text](image.png)
+
 It's usually used in a pipe, like:
+
 ![alt text](image-1.png)
+
 And decoding:
+
 ![alt text](image-2.png)
 
 So in this challenge, we do the bellow:
+
 ![alt text](image-3.png)
 
 Now copy the flag and answer your question.
