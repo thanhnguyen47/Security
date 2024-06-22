@@ -47,6 +47,7 @@ Intelligence needs data. Data has to be collected, processed, and analyzed.
 
 1. Digital Forensics focus on different areas such as: `File System, System memory, System logs, Network logs`
 2. Incident Response refers to ***how would you respond to a cyber attack?***. The aim is to reduce damage and recover in the shortest time possible. Ideally, you would develop a plan ready for incident response.
+
 ![alt text](image-1.png)
 
 ### Malware Analysis
@@ -56,6 +57,7 @@ Malware stands for `malicious software`. That includes many types:
 - `Virus`: a piece of code that attaches itself to a program, designed to spread from one computer to another, altering, overwriting and deleting files. The result ranges from the computer becoming slow to unusable.
 - `Trojan Horse`: a program that shows one desirable function but hides a malicious function underneath.
 - `Ransomware`: a malicious program that encrypts the user's files. These files cannot be opened without password. Attacker will offers the user pay money for this password.
+
 ![alt text](image-2.png)
 
 ## Task 3: Practical Example of Defensive Security
