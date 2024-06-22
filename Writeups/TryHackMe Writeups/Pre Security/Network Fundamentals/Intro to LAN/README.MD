@@ -36,7 +36,6 @@ Router is useful when devices are connected by many paths, such as in the exampl
 
 ![alt text](image-3.png)
 
-
 ## What is a Switch?
 
 Switches are dedicated within a network that aggregate multiple other devices, plug into a switch's port.
@@ -174,6 +173,7 @@ ARP is a protocol in the Network layer of the TCP/IP model, but interacts closel
 ## Task 4: The DHCP protocol
 
 IP addresses can be assigned either manually, by entering them physically into a device, or automatically and most commonly by using a DHCP server - **D**ynamic **H**ost **C**onfiguration **P**rotocol. 
+
 ![alt text](image-8.png)
 
 - DHCP Discover: BROADCAST
