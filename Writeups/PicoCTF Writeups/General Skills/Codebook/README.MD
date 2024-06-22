@@ -75,7 +75,9 @@ Ukm, We can see that the flag is encrypted with a password. Can you get the pass
 
 So the password we've found is `chthonian`.\
 How about the `flag_enc`
+
 ![alt text](image-2.png)
+
 It's not readable string.
 
 The way that the flag is decrypted is by using the `str_xor` function. The `str_xor` function takes in 2 strings and returns the xor of the 2 strings. First it extends the `password` to the length of the `flag_enc`, then it returns the xor of the 2 strings.
