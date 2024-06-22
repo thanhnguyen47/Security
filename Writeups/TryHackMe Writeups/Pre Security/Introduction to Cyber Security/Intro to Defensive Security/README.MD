@@ -11,6 +11,7 @@ Defensive security is the opposite of offensive:
 - Detecting intrusions when they occur and responding properly.
 
 `Blue teams` are part of the defensive security landscape.
+
 ![alt text](image.png)
 
 There are many tasks related to defensive security: `User cyber security awareness, documenting and managing assets, updating and patching systems, setting up preventative security devices (firewall and IPS)`
@@ -60,20 +61,26 @@ Malware stands for `malicious software`. That includes many types:
 ## Task 3: Practical Example of Defensive Security
 
 The SOC use SIEM tools (`Security Information and Event Management`) to gather security-related info and events from various sources and presents them via one system.
+
 ![alt text](image-3.png)
+
 The malicious IP address maybe 143.110.250.149. It's on the 2rd log. Try clicking it:
+
 ![alt text](image-4.png)
 
 Oke, instruction says `there are websites on the Internet that allow you to check the reputation of an IP address to see whether it's malicious or suspicious.`
 
 ![alt text](image-5.png)
+
 ![alt text](image-6.png)
 
 Now we know the IP address is malicious, we need to escalate it to a staff member!\
 You need to escalate this to person who is in charge of your team or department (**SOC Team Lead**).
 
 And then you got the permission to block the malicious IP address on the firewall.
+
 ![alt text](image-7.png)
 
 Got the flag?
+
 ![alt text](image-8.png)
