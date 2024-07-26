@@ -1,5 +1,7 @@
 # Introduction to Cyber Security
 
+![alt text](image.png)
+
 Cyber Security is a huge topic, and it can be challenging to know where to start. This path will give you a hands-on introduction to different areas within cyber, including:
 
 + Careers in Cyber Security (I created a symlink on this directory)
